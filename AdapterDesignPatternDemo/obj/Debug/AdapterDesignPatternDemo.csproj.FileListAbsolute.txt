@@ -1,0 +1,9 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\bin\Debug\AdapterDesignPatternDemo.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\bin\Debug\AdapterDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\bin\Debug\AdapterDesignPatternDemo.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\obj\Debug\AdapterDesignPatternDemo.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\obj\Debug\AdapterDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\AdapterDesignPatternDemo\AdapterDesignPatternDemo\obj\Debug\AdapterDesignPatternDemo.pdb
+C:\Gabriel\Blog\AdapterDesignPattern\AdapterDesignPatternDemo\bin\Debug\AdapterDesignPatternDemo.exe.config
+C:\Gabriel\Blog\AdapterDesignPattern\AdapterDesignPatternDemo\obj\Debug\AdapterDesignPatternDemo.exe
+C:\Gabriel\Blog\AdapterDesignPattern\AdapterDesignPatternDemo\obj\Debug\AdapterDesignPatternDemo.pdb
